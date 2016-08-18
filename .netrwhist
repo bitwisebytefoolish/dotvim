@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/root/assessments/InLight_MedsService_20150814/http_reqs/generator'
+let g:netrw_dirhist_2='/root/assessments/InLight_MedsService_20150814/http_reqs'
+let g:netrw_dirhist_3='/opt/dnstwist/examples'
+let g:netrw_dirhist_4='/etc/apache2/sites-enabled'
+let g:netrw_dirhist_5='/root/jboss-exploit/script/batchfiles'
+let g:netrw_dirhist_6='/root/windows-recon/jmx-sploit/wardeploy/jspfiles'
+let g:netrw_dirhist_7='/root/_assessments/pme/media/overrider'
